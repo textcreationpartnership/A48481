@@ -1,0 +1,738 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To all the affectors and approvers in England of the London petition of the eleventh of September, 1648, but especially to the owners of it, by their subscriptions, either to it, or any other petition in the behalf of it; and particularly to the first promoters of it, my true friends, the citizens of London, &amp;c. (continuing unshaken in their principles, by offices, places, or other base bribes or rewards) usually meeting at the Whalbone in Lothbury, behinde the Royal Exchange, commonly (but most unjustly) stiled Levellers.</title>
+            <author>Lilburne, John, 1614?-1657.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 37 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A48481</idno>
+            <idno type="STC">Wing L2183A</idno>
+            <idno type="STC">ESTC R220125</idno>
+            <idno type="EEBO-CITATION">99831553</idno>
+            <idno type="PROQUEST">99831553</idno>
+            <idno type="VID">36016</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A48481)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 36016)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2050:31)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To all the affectors and approvers in England of the London petition of the eleventh of September, 1648, but especially to the owners of it, by their subscriptions, either to it, or any other petition in the behalf of it; and particularly to the first promoters of it, my true friends, the citizens of London, &amp;c. (continuing unshaken in their principles, by offices, places, or other base bribes or rewards) usually meeting at the Whalbone in Lothbury, behinde the Royal Exchange, commonly (but most unjustly) stiled Levellers.</title>
+                  <author>Lilburne, John, 1614?-1657.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>17 of July, 1649]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed on p. 8: John Lilburne.</note>
+                  <note>Caption title.</note>
+                  <note>Place of publication from from Wing; imprint date from colophon.</note>
+                  <note>Reproduction of the original in the Christ Church Library, Oxford.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Levellers --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Simon Charles</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Simon Charles</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:36016:1" rendition="simple:additions"/>
+            <head>To all the Affectors and Approvers in <hi>England,</hi> of the
+<hi>London</hi> Petition of the eleventh of <hi>September, 1648.</hi> but
+especially to the owners of it, by their ſubſcriptions, either to it, or
+any other Petition in the behalf of it; and particularly to the firſt
+promoters of it, my true Friends, the Citizens of <hi>London,</hi> &amp;c.
+(continuing unſhaken in their principles, by Offices, Places, or other baſe
+bribes or rewards) uſually meeting at the <hi>Whalbone</hi> in
+<hi>Lothbury,</hi> behinde the Royal Exchange, commonly (but moſt unjustly)
+ſtiled Levellers.</head>
+            <opener>
+               <salute>Gentlemen, and worthy Friends,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg>T is the ſaying of the Spirit of God, <hi>Prov.</hi> 17.17.
+<hi>That a friend loveth at all times, and a brother is born for
+adverſity.</hi> And <hi>Prov.</hi> 18.24. <hi>There is a friend that
+ſticketh cloſer then a brother;</hi> the laſt of which ſayings, I am
+able by experience to ſeal to the truth of; and even amongſt you, I have
+found ſome, that in the burning heat of the day of my Ad<g ref="char:EOLhyphen"/>verſity, have
+ſtuck cloſer to me, then my brother; which was not onely largely
+manifeſted by your Petitioning for me, when I was priſoner in
+<hi>Newgate,</hi> about four yeers ago, and by your effectual Petitioning for
+me laſt year, which was the inſtrumental means of my deliverance out of an
+almoſt three years captivity; But alſo your late unwearied pains taken for
+me, <hi>&amp;c.</hi> in divers Petitions of a hazardous nature at the beginning
+of my preſent captivity; which though fruitleſs in themſelves, as to my
+liberty, yet are ſtrong demonſtrations of the continuance of your zealous
+affecti<g ref="char:EOLhyphen"/>ons to me in particular, and to the Liberties of the Land of your
+nativity; for which I ſuffer, and am in bonds.</p>
+            <p>But hearing that you had ſome thoughts of new motions for me,
+and my fellow-pri<g ref="char:EOLhyphen"/>ſoners, I judg it a fit opportunity for me, to viſit you
+with a few lines, and to acquaint you how things at preſent ſtand with me.
+I beleeve the moſt of you have ſeen, if not read my late Book of the eight
+of <hi>June,</hi> 1649. Intituled, <hi>The legal fundamental Liber<g ref="char:EOLhyphen"/>ties of the
+people of</hi> England, <hi>revived, aſſerted, and vindicated, in which,
+from the</hi> 43. <hi>page to the</hi> 59. <hi>page.</hi> I have fully, both by
+Law and Reaſon, undeniably, and unanſwerably proved, <hi>That the preſent
+Juncto ſitting at</hi> Weſtminſter, <hi>are no Parliament at all, in any
+ſenſe, either upon the principles of Law, or Reaſon, but are a company of
+uſurping Tyrants, and deſtroyers of your Laws, Liberties, Freedoms, and
+Properties,</hi> ſitting by vertue of the power, and conqueſt of the Sword;
+from whom, if we will believe their Oracle Mr. <hi>John Cook, we may, and
+ought, if we can, to deliver our ſelves.</hi> His words in the Kings Caſe
+ſtated <hi>page</hi> 10. are, <hi>That all people that live at the beck, and
+nod of Tyrannical men, may and ought to free themſelves from that Tyranny,
+if, and when they can; for ſuch Tyrants, that ſo domineer with a rod of
+Iron, do not govern by Gods permiſſive hand of approbation or benediction,
+but by the permiſſive hand of his providence, ſuffering them to ſcourge
+the peo<g ref="char:EOLhyphen"/>ple, for ends beſt known unto himſelf, until he open a way for the
+people to work out their own infranchiſements.</hi>
+            </p>
+            <p>And in <hi>page</hi> 22. (ſaith he) <hi>Conqueſt onely makes
+title amongſt Wolves, and Bears, but not amongſt men:</hi> And in
+<hi>page</hi> 8. <hi>That a man ruling by Luſt, and not by Law, is a Creature
+that was never of Gods making, nor of Gods approbation, but his permiſsion;
+and though ſuch men are ſaid to be gods on Earth, its in no other
+ſenſe, th<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n the Devil is called,
+the god of this world.</hi>
+            </p>
+            <p>The ſame Note alſo the great men of the Army ſing, in their
+late Remonſtrance from Saint <hi>Albans, Novemb.</hi> 16. 1648. <hi>p.</hi>
+48. 67. and in <hi>page</hi> 22. they ſay <hi>That when a Magiſtrate
+intruſted with a power to protect and preſerve the peoples R<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ghts and Liberties, ſhall riſe to
+the aſſuming hurtful powers, which he never had committed to him, and
+indeed, to take away all thoſe foundations of Right and Liberty, and of
+redreſs, or remedy too, which <pb n="2" facs="tcp:36016:2"/>the people have reſerved
+from him, and to ſwallow up all into his own abſolute will and power, to
+impoſe or take away, yea, to deſtroy at pleaſure; and declaring all
+appeal herein, to the eſtabliſhed equal Judgment, or to any other Judgment
+of men at all, ſhall flie to the way of Fame, upon the truſting people</hi>
+(which both <hi>Cromwel</hi> and <hi>Ireton, &amp;c.</hi> have already, a<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> really done, as ever the King did,)
+<hi>and by it attempt to uphold and eſtabliſh himſelf in that abſolute
+tyrannical power, ſo aſſumed over them; and in the exerciſe thereof at
+pleaſure, ſuch a perſon in ſo doing, does forfeit all that truſt and
+power he had, and abſolve the people thereby, from the Bonds and Covenant of
+Peace betwixt him and them; does ſet them free to take their beſt
+advantage, and (if he fall within their power) to proceed in judgment againſt
+him, even for that alone if there were no more;</hi> of all which, in the evil
+part of it, in the higheſt, the chief Authors of that <hi>Remonſtrance</hi>
+are guilty: <hi>Therefore out of thy own mouth will I judg thee, thou wicked
+ſervant, ſa<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>th Chriſt,
+Luke</hi> 19.22. And ſaith <hi>Paul</hi> to his, <hi>One of themſelves,
+even a Prophet of th<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ir own ſaid;
+The Cretians are always liers, evil Beaſts, ſlow Bellies: this witneſs is
+true; therefore—&amp;c.</hi>
+            </p>
+            <p>Now I ſay, conſidering that which is before declared, I cannot
+upon any terms in the world, either with ſafety, juſtice or conſcience,
+as things ſtand with me at preſent, give my conſent, but hinder as much
+as I am able, all addreſſes from you or any others for me, that ſhall own
+thoſe uſurping Tyrants as a Parliament, eſpecially by Petition <hi>Which
+was a courſe</hi> (ſaith the pretended Parliament Solicitor againſt the
+King, in his Caſe ſtated, <hi>page</hi> 24.) <hi>which Gods people did not
+take with</hi> Rehoboam, <hi>for they never Petitioned him</hi> (although he
+was their lawful and ſupreme Magiſtrate) <hi>but adviſed him; he
+refuſing their counſel, and hearkened to young and wicked Counſellors,
+and they cry out, To thy Tents O Iſrael, and made quick and ſhort work of
+it.</hi>
+            </p>
+            <p>But I ſhall rather deſire and adviſe you; by Letter like
+your ſelves, addreſs your ſelves to the Lord <hi>Fairfax;</hi> by the
+ſword of whom and his Souldiers, I am now in priſon for my honeſty and
+innocency, and nothing elſe, and demand my liberty of him; if he refuſe,
+print it, and do as God, and Reaſon ſhall direct you; for it was his and
+his Souldiers force that fetcht me out of my Bed, the 28 of <hi>March,</hi>
+1649. without all ſhadow of Law or Juſtice, <hi>and againſt the tenor of
+all their own Declarations;</hi> the particular pages of which, you may read in
+my following Letter to Mr. <hi>Holland, page</hi> 5. And by force of Arms,
+carryed me to <hi>whitehal,</hi> and then to <hi>Derby</hi> houſe, before a
+company of men, that in Law had no more power to commit my body to priſon,
+then ſo many theeves and robbers up<g ref="char:EOLhyphen"/>on <hi>Suiters</hi> Hill have; who by the
+Rules of their own wills <hi>(as in the ſecond Edition of the Picture of
+them, I have fully declared)</hi> ſent me by force of Arms to the Tower; for
+all my ſhort eternity in this world.</p>
+            <p>But I intreat you ſeriouſly to conſider that I cannot
+adviſe you to make addreſs to him, as the General of the Nations forces,
+for he is no ſuch thing; but is meerly a great Tyrant, ſtanding by the
+power of his own will, and a ſtrong ſword, born by his vaſſals,
+ſlaves and creatures having no commiſſion to be General, <hi>either from
+Law, the Parliament, or from the prime Laws of Nature and Reaſon.</hi>
+            </p>
+            <p>For Firſt, when he was firſt made General by both Houſes of
+Parliament, it was ex<g ref="char:EOLhyphen"/>preſly againſt
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he letter of the Law, which action
+cannot be juſtified, either before God or man, but in caſe of extream
+neceſſity; and for the accompliſhment of a univerſall righteous end,
+<hi>viz. The redeeming, ſetling, and ſecuring the peoples rational and
+juſt Rights and Freedoms,</hi> and not in the leaſt, for ſetting up any
+particular ſelviſh or factious intereſt.</p>
+            <p>But ſecondly, in refuſing to disband, &amp;c he hath rebelled
+againſt his Parliament com<g ref="char:EOLhyphen"/>miſſion, and thereby deſtroyed and
+annihilated it; And at <hi>New-Market Heath, the fifth of June</hi> 1647 betook
+himſelf to the prime Laws of Nature, and by common conſent of his Officers
+and Souldiers became their General, <hi>and entred into a ſolemn and mutuall
+ingagement before God, and one another,</hi> for the accompliſhment of
+thoſe righteous ends <pb n="3" facs="tcp:36016:2"/>therein contained, for the good of the
+Kingdom and themſelves, by ſubſcribing his name, or at leaſt expreſly
+aſſenting thereunto, and approving thereof with ſolemn ingagement, as is
+at large Printed in the Armies Book of Declarations, <hi>p.</hi> 23, 24, 25,
+26. by the very letter of which, he, nor his Officers could not govern the Army
+jointly or ſeverally, by the former Rules or Articles of Martiall Law, <hi>no
+nor ſo much as make an Officer of the meaneſt quality, nor put forth any
+publike Declaration, nor treat with, nor conclude with any in reference to the
+Army, but by the joynt advice and approbation of their new erected and
+eſtabliſhed councel of Adjutators,</hi> which for order and methods ſake,
+the General was be<g ref="char:EOLhyphen"/>truſted to convene and call together, as the King formerly
+was Parliaments, or the Lord Mayor of <hi>London</hi> Common Councels; and yet
+notwithſtanding he and his Officers, like a generation of moſt perfidious,
+falſe, and faithleſs men, broke all this ingage<g ref="char:EOLhyphen"/>ment to pieces, within
+leſs then twenty dayes after it was made, and ſo annihilated and
+deſtroyed his power, authority, or commiſſion, flowing from the conſent
+of the Souldi<g ref="char:EOLhyphen"/>ers, before he had really accompliſhed any one thing, he, or
+they ingaged for, and hath ſince two ſeverall times, put a nullity, or
+force, upon his originall Creators, Lords and Maſters, the Parliament.</p>
+            <p>And that he and his Officers broke their forementioned ſolemn
+ingagements in ſo ſhort a time; I prove fully out of their own book of
+Declarations, in which <hi>page</hi> 36. to 46 <hi>I finde a Declaration, dated
+the</hi> 14. <hi>of June,</hi> 1647. <hi>made and publiſhed by his Excellency
+Sir</hi> Thomas Fairfax, <hi>with the Officers and Souldiers of his Army;</hi>
+(mark it well) for in the very words of it, it is, in Excellency worth all the
+Declarations that ever the Army made ſince: and in <hi>page</hi> 47. to 50.
+<hi>I finde a generall charge againſt the eleven Members, with a paper
+delivered with it to the Parliaments Commiſſioners at St.</hi> Albans,
+<hi>the</hi> 17. <hi>June</hi> 1647 <hi>by the appointment of his Excellency
+Sir</hi> T. Fairfax, <hi>and the Soldiers of the Army under his command;</hi>
+but in the following <hi>pages, viz pag.</hi> 51, 52, 53, 54. I finde that the
+21, 22, 25. of June, 1647. his <hi>Excellency, and his Councel of War
+alone,</hi> without the Coun<g ref="char:EOLhyphen"/>cel of Adjutators, repreſenting the Souldiers,
+according to their ingagement, writ letters to, and entered into a Treaty with
+the Lord Mayor and Common-Councel of <hi>London, which was a baſe,
+perfidious, treacherous act, and an abſolute breach of their ſolemn
+ingage<g ref="char:EOLhyphen"/>ment;</hi> yea in <hi>page</hi> 57. <hi>June</hi> 23. 1647. The General,
+and twenty eight Grandee, and creature Officers, publiſh a Remonſtrance to
+the Kingdom, and that in the name of the Army; in which baſe and abominable
+apoſtacie they continued, without ever wiping their mouths, or recanting what
+they had ſo unjuſtly done, as <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he whole tenor of their Book of Declarations doth declare; yea when
+the particular charge againſt the eleven Members comes from them, it comes
+onely in the name of the General and his Councel of War, <hi>page</hi> 94. yea,
+and all this, with ten times more (as I beleeve the world will ſhortly and
+fully ſee) <hi>was done in despite of the Adjutators, or conſent of th<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> R<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>giments, Troops, or Companies;</hi> for all thoſe two grand and
+lying Apoſtates (<hi>Corn<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t</hi>
+Den. <hi>and Parſon</hi> John Can, <hi>a late cheat at Amſterdam</hi>)
+confident affirmations to the contrary in their late Printed lying books,
+intituled the <hi>Levellers</hi> Deſign <hi>page</hi> 4. 5. and the ſecond
+part of the Diſcoverer, <hi>page.</hi> 5 6. where they av<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r, <hi>That the councel of Adjutators,
+eſta<gap reason="illegible" resp="#OXF" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ſhed by the Ar<g ref="char:EOLhyphen"/>mies
+ſolemn ingagement, was d<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſſolved and made null by the ſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>me power by which they had their conſtitution; and that it was
+done by a Petition to the Generall from moſt of the Regi<g ref="char:EOLhyphen"/>ments, &amp;c.</hi>
+But although I iudg the two <hi>forementioned lying baſe Apoſt<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tes,</hi> to be ſo abo<g ref="char:EOLhyphen"/>minably vile,
+that I judg not my excrements mean enough upon equal terms to ballance
+againſt them; yet knowing the affairs of the Army then ſo extrraordinarily
+well as I do, I will ballance life againſt life, that neither they, nor any
+man breathing can produce a Petition ſo much as from one ſingle Troop or
+Company, <hi>much leſs from a Regiment,</hi> and therefore much leſs from
+the greateſt part of the Regiments, both of Horſe and Foot, for calling
+home their Adjutators, before the Gen. and his Officers had, as is before
+mention<g ref="char:EOLhyphen"/>ed <pb n="4" facs="tcp:36016:3"/>
+               <hi>broke in pieces the ſolemn engagement again
+and again</hi> (and Invaſion of Rights and Pri<g ref="char:EOLhyphen"/>viledges was the true declared
+ground and cauſe of all the late wars with the late beheaded King, and is
+really the originall ground of moſt (if not all) the cruell wars in the
+world) But if the Souldiers had made ſuch a Petition (which they never did)
+it were not much materiall I think, for they ingaged ſomething to and for the
+Kingdom, in reference to the ſetlement of their Liberties and Freedoms, whith
+I am ſure they in no one title ever accompliſhed or performed, and
+therefore till that be done, they can not rationally or juſtly abſolve
+themſelves from the true intent or meaning of that engagement.</p>
+            <p>But I wiſh thoſe Champions for lies and Apoſtaſie, would
+inſtance the place where, the time when, and the Regiments that
+ſubſcribed and delivered ſuch a Petition, and deal ingeniouſly with the
+world, whether it were a free act, or a compulſive one, wrought
+<hi>underhand, by all the ſnares, pol<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cies, tricks, gins, and ſlights, that poſſible the Officers
+could invent, without or b<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>low a
+viſible and compulſive force,</hi> which can never of right unty that knot;
+Sure I am, divers of the Adiutators, &amp;c. ſent ſeverall complaints to
+me, &amp;c. to the Tower from St. <hi>Albans;</hi> immediatly after the
+ſolemn ingagement was made, <hi>complai<g ref="char:EOLhyphen"/>ning that Cromwel, Ireton,
+&amp;c.</hi> (one of which two pen'd this engagement) <hi>would needs
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> by force and frowns totally
+break and diſſolve it;</hi> of which baſeneſs (though then we we<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e not viſibly faln out) I told
+<hi>Cromwel</hi> very freely and plainly of, as appears by my Letters to him of
+the 22 of <hi>June,</hi> 1647 and the 1 of <hi>July</hi> 1647. and in my
+Adviſe to the Adiutators of the 16 of <hi>July,</hi> 1647. All which I
+cauſed immediatly after to be Printed in my Book, <hi>called</hi> Jonahs
+<hi>cries out of the <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hales
+belly,</hi> and the like in my little Book, <hi>called the Jugl<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rs D<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſcovered;</hi> and I am ſure it was <hi>Auguſt</hi> following,
+when the Armies Head quarters were at <hi>Kingſton,</hi> where
+<hi>Cromwel</hi> b<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gun to be afraid
+of the Adiutators ap<g ref="char:EOLhyphen"/>prehending his underhand and night Juglings with the King,
+<hi>to make himſelf able, like cardinal</hi> Woolſey, <hi>to ſay, I and
+my K<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ng;</hi> which he was afraid
+the Adiutators ſhould take too much notice of, although long before their
+power and authority was deſtroyed; and there<g ref="char:EOLhyphen"/>fore was not willing they
+ſhould at all remain or lodge at the Head-quarters, although <hi>Crumwel</hi>
+had weeks, and ſome moneths before deſignedly, and of ſet purpoſe, with
+all his power and intereſt, walked in a continual breaking and trampling the
+engagement under his feet, and therefore about that time he and his agents
+ſet that Petition a foot, to rid the Head quarters of the Adiutators, that
+they might not ſo much as ſee his baſeneſs but alas, that Petition
+could not null and deſtroy that that was broken, nuld in efficacy and power,
+annihilated long before, but yet I could not for all this ever hear that
+Petition was one tenth part ſo formall as they report it to be.</p>
+            <p>But from what hath been already ſaid, (and in time will
+ſpeedily be declared) <hi>it is evident that the General and the Officers at
+St.</hi> Albans <hi>broke their ſolemn engagement with their Souldiers and
+the Kingdom, immediatly after it was mad<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, and tyrannicall, and treache<g ref="char:EOLhyphen"/>rouſly invaded their Rights and
+Freedoms,</hi> which bred heart-burnings, and thoſe diviſions which the
+publique enemy (ſo called) took the advantage of, and ſo came on the wars;
+God ever after their abominable and villanous appoſtacy, filling their hands
+with trou<g ref="char:EOLhyphen"/>bles and confuſions, beſides loſs of reputation and good name,
+upon whoſe ſcore alone lies the true guilt of all the blood-ſhed in the
+laſt years war, and of all the miſeries that ſince have befaln
+<hi>Ireland</hi>
+               <note n="*" place="margin">Which they might eaſily have
+relieved, if they had pleaſed, with thoſe forces they disbanded in
+ſeveral places of the Nation, immedi<g ref="char:EOLhyphen"/>ately after the making the foreſaid
+Engagement; or with thoſe twenty they the laſt Spring disbanded, out of
+every Troop and Company: Part of which, in diſcontent at their baſe uſing
+of them, run to <hi>La<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ghorn</hi>
+and <hi>Poyer,</hi> and others; to <hi>Goring, Cavel,</hi> and others, to Sir
+<hi>Marmaduke La<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>gdale,</hi> and the
+Scots: but <hi>Crom<g ref="char:EOLhyphen"/>wel</hi> it ſeems was reſolved then, That no forces
+ſhould go to relieve <hi>Ireland,</hi> till he went with them, with an
+abſolute Commiſſion to be King of <hi>Ireland:</hi> Which Commiſſion,
+though he hath got, yet he may fail of his expected Town, both there and
+elſewhere.</note> and this year again is likely, by forraign invaſions of
+ſtrange Nations, and by inteſtine broyles to befall <hi>England;</hi> and
+therefore if you <pb n="5" facs="tcp:36016:3"/>love the Lord <hi>Fairfax,</hi> tell him,
+that though people at the preſent deal by him and <hi>Crom<g ref="char:EOLhyphen"/>wel,</hi> &amp;c.
+as the Parliament uſed to do with the King, <hi>laying all the evill of his
+actions upon his evill Councellors,</hi> yet he and his Officers in their
+Remonſtrance from St <hi>Albons,</hi> 16. of <hi>November</hi> 1648. ſay
+<hi>That the King himſelf is the reall Fountain, and true originall, from
+whom principally all that miſchief hath iſſued, that of late in his Raign
+hath befaln the King<g ref="char:EOLhyphen"/>dom being himſelf the principall Author, and cauſer of
+the firſt and ſecond War, and thereby guilty of all the innocent blood
+ſpilt therein, and of all the evils hapning thereby,</hi> pag. 17. 19. 23.
+24. 61. 62, 64. <hi>whoſe one example, in doing Juſtice upon, to future
+Generations, would be of more terror and avail, then the execution of his whole
+party,;</hi> pag. 47. 48. <hi>It being</hi> (as they ſay) <hi>a moſt
+unjuſt and unconſcionable thing to puniſh inferior Miniſters, the
+acceſſories, and let the King, the principall, go free,</hi> pag. 50.</p>
+            <p>Even ſo, though moſt men now lay the blame of all the Armies
+apoſtacy, baſeneſs, perfidiouſneſs and treachery upon
+<hi>Cromwel</hi> and <hi>Ireton,</hi> as the Generals evil Councellors; yet
+they (his Screen betwixt him and the peoples wrath) being gone from him towards
+<hi>Ireland,</hi> he will now appear nakedly and ſingly, to be as he is in
+himſelf, and let him take heed, leſt from his by-paſt conſtant,
+ſigning, aſſenting to, approving of, and acting in all their
+perfidiouſneſs, treachery and baſeneſs, with his preſent carriage,
+now he ſtands, as it were a Noun Subſtantive, upon his own legs, and may
+now moſt gloriouſly act honeſt<g ref="char:EOLhyphen"/>ly and juſtly if he pleaſe, without
+their controul or any others (and ſo regain his loſt cre<g ref="char:EOLhyphen"/>dit and
+reputation) if wickedneſs and baſeneſs be not as largely inherent in his
+heart, as it is in either <hi>Cromwels, or Iretons:</hi> I ſay, let him take
+heed from all his actings, the knowing and ſeeing people do not juſtly
+conclude him to be the principal Author and cauſer of all their miſeries,
+diſtreſſes and woes; <hi>and ſo in time ſerve him, as he hath
+ſerved the King.</hi> and only put <hi>Cromwel, Ireton, Ha<gap reason="illegible" resp="#OXF" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>rig, Bradſhaw, Harriſon,
+&amp;c.</hi> in <hi>Hambletons, Hollands, Capels, Gorings, and Owens places, as
+but acceſſories or depen<g ref="char:EOLhyphen"/>dants upon</hi> Fairfax <hi>the
+principall.</hi>
+            </p>
+            <p>But my true friends, I ſhall hear take upon me the boldneſs
+(in regard of the great di<g ref="char:EOLhyphen"/>ſtractions of the preſent times) to give a
+little further advice to you, from whoſe compa<g ref="char:EOLhyphen"/>ny or ſociety (or from
+ſome of them) hath begun, and iſſued out the moſt tranſcendent,
+cl<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ar, rational and juſt things
+for the peoples Liberties and Freedoms, that I have ſeen or read in this
+Nation as your notable and excellent <hi>Petition of May</hi> 20 1647.
+<hi>burnt by the hands of the common Hangman,</hi> Recorded in my Book, called
+<hi>Raſh Oaths unwarranta<g ref="char:EOLhyphen"/>ble, pag.</hi> 29 30, 31, 32, 33, 34 35. with
+divers others Petitions of that nature; <hi>and the Petition of the</hi> 19
+<hi>of Jan.</hi> 1647. <hi>Recorded in the following diſcourſe, pag.</hi>
+45, 46, 47, 48, <hi>&amp;c. and the maſculine Petition of the</hi> 11. <hi>of
+Sept:</hi> 1648. <hi>ſo much owned by Petitions out of ſe<g ref="char:EOLhyphen"/>verall Counties,
+yea, and by the Officers of the Armies large Remonſtrance from St</hi> Albans
+<hi>of the</hi> 16. <hi>Novemb.</hi> 1648. <hi>pag</hi> 67 68, 69. The
+ſubſtance of all which, I conceive is contained in the Printed ſheet of
+paper ſigned by my fellow priſoners, Mr. <hi>Will. Walwin,</hi> Mr.
+<hi>Tho, Prince,</hi> Mr. <hi>Rich. Ov<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rton, and my ſelf,</hi> dated the 1. of <hi>May.</hi> 1649. and
+intituled <hi>An Agreement of the free people of England, &amp;c.</hi> The
+principles of which I hope and deſire you will make the final Center, &amp;
+unwavering Standard of all your deſires, hazards and indeavors, as to the
+future ſettlement of the peace and government of this diſtracted, waſted,
+and divided Nation; the firm eſtabliſhing of the principles therein
+contained, b<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing that only, which
+will really and in good earneſt marry and knit that intereſt, what ever it
+be, that dwells upon them, unto the diſtreſſed, and oppreſſed
+Commons, or people of this Nation; yea, the ſetling of which principles, is
+that, that will thereby make it evident and apparent unto all rationall and
+underſtanding people in the world, that the reall and hearty good and
+welfare, of the people of this Nation, hath cordially, and in good earneſt
+been that, that their ſouls have hunted for, and thirſted after in all the
+late bloody civill wars, and conteſts: <hi>All the Conteſts of the Kings
+party for his will and Prerogative, being meerly <pb n="6" facs="tcp:36016:4"/>Selviſh,
+and ſo none of the peoples intereſt;</hi> and the conteſt of the
+<hi>Presbyterians for their mak<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>-bate, dividing, and hypocriticall Covenant, no better in the
+leaſt;</hi> and the preſent conteſt of the preſent diſſembling
+intereſt of <hi>Independents</hi> for the peoples Liberties in generall,
+(read the following Diſcourſe, <hi>pag.</hi> 27, 28, 29.) meerly no more
+but Self in the higheſt <hi>and to ſet up the falſe ſaint, and moſt
+deſperate Apoſtate murderer and traytor,</hi> Oliver Cromwel, <hi>by a
+pretended election of his mercinary ſouldiers, under the falſe name of the
+godly Intereſt, to be King of England, &amp;c.</hi> (that being now too too
+apparently; all the intended them by his Will and
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>leaſure, and ſo deſtroy and
+envaſſalize their lives and proper<g ref="char:EOLhyphen"/>ties to his luſts, which is the
+higheſt treaſon that ever was committed or acted in this Nation, in any
+ſenſe or kinde; <hi>either firſt, in the eye of the Law, or ſecondly,
+in the eye of the ancient</hi> (but yet too much arbitrary) <hi>proceedings of
+Parliament, or thirdly, in the eye of their own late declared principles of
+reaſon;</hi> by pretence of which (and by no rules of Law in the leaſt)
+they took away the late Kings head, and life, which if there were any Law or
+Juſtice in <hi>England</hi> to be had, or any Magiſtrates left to execute
+it, <hi>(as in the leaſt there is not)</hi> I durſt undertake upon my life,
+plainly evidently; and undeniably, <hi>to make good the foreſaid unparalleld
+treaſons againſt the foreſaid</hi> Ol. Cromwel, upon, &amp; againſt all
+the three forementioned principles, <hi>viz. Law, Parliament,</hi> and
+<hi>Reaſon;</hi> yea, and to frame againſt him ſuch an Impeachment, or
+Indictment <hi>(which way of Indictments is the true, legall, and only juſt
+way of</hi> England <hi>to be tried at the Common Law,</hi> higher and greater
+then all the charges, <hi>againſt the fourty four Judges</hi>) <hi>hanged for
+falſe and illegal Judgments, by King</hi> Alfred <hi>before the
+conqueſt;</hi> which with their crimes, are recorded in the Law Book, called
+<hi>The mirror of Juſtice,</hi> Printed in Engliſh, for <hi>Matthew
+Walbank</hi> at <hi>Grayes Inn</hi> gate, 1646. <hi>page</hi> 239. 240. 241.
+242. 243. 244. 245. See alſo <hi>page</hi> 196. 197. 207. <hi>ibid.</hi>
+            </p>
+            <p>Or then the impeachment or accuſation <hi>Of the Lord chief
+Juſtice</hi> Wayland, <hi>and the reſt of his brother Judges and Lawyers,
+tormented in</hi> Edward <hi>the firſt his time,</hi> and men<g ref="char:EOLhyphen"/>tioned in
+<hi>Speeds</hi> Chronicle, <hi>fol.</hi> 635.</p>
+            <p>Or then the impeachment in Parliament, <hi>againſt Judg</hi>
+Thorp, <hi>who for taking ſmall bribes againſt his oath, was condemned to
+die in</hi> Edward <hi>the third his time;</hi> of whom, you may read in the 3.
+<hi>part. Cooks Inſtitut. fol.</hi> 155, 156, and in Mr. <hi>Pyms</hi> Speech
+againſt the Earl of <hi>Strafford,</hi> in the Book called <hi>Speeches and
+Paſſages of Parliament, pag.</hi> 9.</p>
+            <p>Or then the impeachment or a charge of the dethroned King
+<hi>Edward</hi> the ſecond, in full Parliament, the maner of whoſe
+dethroning you may notably read in <hi>Speeds</hi> Chro<g ref="char:EOLhyphen"/>nicle, <hi>fol.</hi>
+665.</p>
+            <p>Or then the many Articles of impeachment, of the dethroned King
+<hi>Richard</hi> the ſe<g ref="char:EOLhyphen"/>cond, in full Parliament, recorded at large in the
+Chronicles, or Hiſtory of <hi>Will. Martin, fol</hi> 156. 157. 158 159. the
+8. 10. 12. 15. 21. Articles of which, I conceive moſt remark<g ref="char:EOLhyphen"/>able, as to the
+people, which are extraordinary well worth the reading; for in them the King
+himſelf, in thoſe dark days of Popery, is charged <hi>To have perverted the
+due courſe of the Law, or Juſtice, and Right; and that he deſtroyed men
+by information, without legal examination, or tryal; and that he had declared
+the Laws of the Kingdom, were in his own Breſt,</hi> (juſt the ſame thing
+do Mr. <hi>Peters</hi> and other mercenary Agents of the Grandees of the Army,
+now conſtantly declare of them) <hi>and that by himſelf, and his own
+authority</hi> (juſt <hi>Cromwel</hi> and <hi>Ireton</hi> like, onely much
+ſhort of them) <hi>he had displaced divers Burgeſſes of the Parliament,
+and had placed ſuch other in their rooms, as would better fit and ſerve his
+own turn.</hi>
+            </p>
+            <p>Or then the impeachment of the Lord chief Juſtice <hi>Triſ<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ian</hi> (who had the worſhip or
+honor in <hi>Richard</hi> the ſecond his time, in full Parliament, to be
+apprehended in the forenoon, and hanged at <hi>Tiburn</hi> in the afternoon)
+with his brother Judges, <hi>viz. Ful<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>horp, Be<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>knap, Care, Hot,
+Burge,</hi> and <hi>Lockton;</hi> or their aſſociates, Sir <hi>Nicholas
+Bramble,</hi> Lord <pb n="7" facs="tcp:36016:4"/>Mayor of <hi>London,</hi> Sir <hi>Simon
+Burley,</hi> Sir <hi>William Elinham,</hi> Sir <hi>John Salisbury,</hi> Sir
+<hi>Thomas Trevit,</hi> Sir <hi>James Bernis,</hi> and Sir <hi>Nicholas
+Dodgworth; ſome of whom were deſtroyed and hanged, for ſetting their
+hands to Judgments, in ſubverſion of the Law, in advancing the Kings will
+above Law;</hi> yea, and one of them baniſhed therefore, <hi>although a
+dagger was held to his breſt to compel him thereunto.</hi>
+            </p>
+            <p>Or then the indictment, <hi>of thoſe two grand and notorious,
+traitorly ſubvertors of the Laws and Liberties of</hi> England, Empſon,
+<hi>and</hi> Dudley, <hi>Privy Counſellors to</hi> Henry <hi>the
+ſeventh</hi> recorded in <hi>Cooks</hi> 4. <hi>part. Inſtitut. fol.</hi>
+198. 199. read alſo <hi>fol</hi> 41. <hi>ibid.</hi> and 2. <hi>part.
+Inſtit. fol.</hi> 51.</p>
+            <p>Or then the impeachment of that notorious, wicked, and traiterous
+man, Cardinal <hi>Woolſey,</hi> by King <hi>Henry</hi> the eight his Privy
+Councel, recorded in the 4. <hi>part. Cooks Inſtit. fol.</hi> 89. 90. 91. 92.
+93. 94. 95. Read eſpecially Artic. 17. 20. 21. 23. 25. 26. 30. 31. 33. 35.
+38. 42. in all which, he is charged <hi>with Arbitrarineſs, and
+ſubverſion of the Law.</hi>
+            </p>
+            <p>Or then the impeachment of the Shipmoney Judges, <hi>who in one
+judgment did as much as in them lay, deſtroy all the Properties of all the
+men in</hi> England; read the notable Speeches againſt them, in Speeches, and
+Paſſages.</p>
+            <p>Or then the impeachment of the Biſhop of <hi>Canterbury,</hi> in
+the late Parliament.</p>
+            <p>Or then the impeachment, <hi>of the Lord Keeper</hi> Finch,
+<hi>Earl of</hi> Strafford, <hi>Secretary</hi> Win<g ref="char:EOLhyphen"/>debank, <hi>Sir</hi> Richard
+Bolton, <hi>Lord Chancellor of</hi> Ireland, John <hi>Lord Biſhop of</hi>
+Derry, <hi>Sir</hi> Gerrard Lowther, <hi>Knight, Lord chief Juſtice of the
+Common Pleas in</hi> Ireland, <hi>and Sir</hi> George Ratcliff, all whoſe
+impeachments are recorded in a Book, intituled, <hi>Speeches and Paſſages
+of Parliament, from November,</hi> 1640. 10 <hi>June,</hi> 1641. <hi>Pag.</hi>
+76. 77. <hi>to</hi> 83. <hi>and</hi> 117. 118. <hi>to</hi> 143. <hi>and</hi>
+174. <hi>and</hi> 256. 257. 258.</p>
+            <p>Or then the Articles or charge <hi>againſt the two Sir</hi> John
+Hothams; the elder of which, kept the King out of <hi>Hull,</hi> the beginning
+of theſe Wars, <hi>when the Houſe of Commons durſt not command him
+poſitively to do it, although they were effectually put upon it, by a motion
+from the younger, then ſitting in the Houſe;</hi> and yet they were both
+beheaded as Traytors, for but endevoring to betray <hi>Hull</hi> to the
+King.</p>
+            <p>Or then the late impeachment <hi>of Sir</hi> Philip Stapleton,
+<hi>Maſter</hi> Denzil Hollis, <hi>and the reſt of the eleven Members,</hi>
+whoſe impeachment of high Treaſon, is recorded in the Armies Book of
+Declarations, <hi>pag.</hi> 47. <hi>to</hi> 50. <hi>and pag.</hi> 94 95. 96.
+<hi>&amp;c.</hi> And yet the ſame things, that ſome of them, in a capital
+maner, were impeached for as Traytors, their impeachers acted, and did at the
+very ſelf-ſame time, as is clearly declared in the follow<g ref="char:EOLhyphen"/>ing
+diſcourſe, <hi>pag.</hi> 31. 32. <hi>to</hi> 39. <hi>and page</hi> 53.
+<hi>to</hi> 62.</p>
+            <p>Yea, or then the impeachment of King <hi>Charls, whom</hi> Cromwel
+<hi>and</hi> Ireton <hi>principally</hi> (<hi>Bradſhaw</hi> being but their
+hired mercinary ſlave) <hi>have beheaded for a Tyrant and Traytor;</hi>
+whoſe impeachment is recorded in the following diſcourſe, <hi>page</hi>
+65. 66. 67.</p>
+            <p>But the principles of the foreſaid <hi>Agreement,</hi> being
+ſo deteſtable and abominable to the preſent ruling men, as that which
+they know will put a full end to their tyranny and uſurpation, and really
+eaſe and free the people from oppreſſion and bondage; that it is
+ſomething dangerous to thoſe that go about the promotion of it; yet I
+ſhall adviſe and exhort you vigorouſly, to lay all fear aſide, and to
+ſet on foot the promotion of it, in the ſame method we took for the
+promotion of the foreſaid Petition of the 19 <hi>of January,</hi> 1647. laid
+down in the following diſcourſe, <hi>page</hi> 23. 24. 25. And write to
+your friends in every Country of <hi>England to chuſe out from amongſt
+themſelves, and ſend up ſome Agents to you</hi> (two at leaſt, from
+each County, with money in their pockets to bear their charges) <hi>to
+conſider with your culd and choſen Agents, of ſome effectual courſe
+ſpeedily to be taken, for the ſetling the principles thereof</hi> (as that
+onely within an earthly Government, can make you happy) <hi>or at leaſt, to
+know one anothers mindes, in owning and approving the principles thereof;</hi>
+that ſo it may become to you, and all your friends, <hi>your Center,
+Standard, and <pb n="8" facs="tcp:36016:5"/>Banner, to
+<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ock together to, in the time of
+thoſe forraign invaſions, and domeſtick inſurrecti<g ref="char:EOLhyphen"/>ons, that are like
+ſpeedily to bring miſeries enough upon this poor and d<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſtreſſed Nation,</hi> and unanimouſly reſolve
+&amp; engage <hi>one to another, neither to ſide with, or fight for the
+Cam<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>oes, fooleries, and pride of the
+preſent men in power, nor for the Prince his will, or any other baſe
+intereſt whatſeover</hi> (the which, if you ſhould fight for, it would be
+but an abſolute murder<g ref="char:EOLhyphen"/>ing of your Brethren and Countrymen, you know not
+wherefore) <hi>unleſs he, or they will come up to thoſe juſt, righteous,
+and equitable principles therein contained, and give rational, and good
+ſecurity, for the conſtant adhering thereunto;</hi> and upon ſuch terms,
+I do not ſee, but you may juſtifiably, before God or man, Joyn with the
+Prince himſelf (yea, I am ſure a thouſand times more juſtly, then the
+preſent ruling men (upon a large and ſerious debate) joyned with <hi>Owen
+Roe O<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eal; the grand bloody rebell
+in Ireland</hi>) who if we muſt have a King, I for my part had rather have
+the Prince, then any man in the world, becauſe of his large pretence of
+Right, which if he come not in by Conqueſt, by the hands of For<g ref="char:EOLhyphen"/>raigners (the
+bare attempting of which may apparently hazard him the loſs of all at once,
+by gluing together the now divided people to joyn as one man againſt him) but
+by the hands of Engliſhmen, by contract, upon the principles aforeſaid
+(which is eaſie to be done) the people will eaſily ſee that preſently
+thereupon, they will injoy this tranſcendent benefit (he being at peace with
+all forraign Nations, and having no regall pretended Competitor) <hi>viz. the
+immediate disbanding of all Armies, and Garriſons, ſa<g ref="char:EOLhyphen"/>ving the old
+Cinque-ports, and ſo thoſe three grand plagues of the people will
+ceaſe,</hi> viz. <hi>Free-quarter, Taxations, and Exciſe,</hi> by means of
+which, the people may once again really ſay, they injoy ſomething they can
+in good earneſt call their own; <hi>whereas, for the preſent Army to ſet
+up the pretended falſe Saint</hi> Oliver (or any other) <hi>as their elected
+King,</hi> there will be nothing thereby from the beginning of the Chapter to
+the end thereof, <hi>but Wars, and the cutting of throats year after year;</hi>
+yea, and the abſolute keeping up of a perpetuall and e<g ref="char:EOLhyphen"/>verlaſting Army
+under which the people are abſolute and perfect ſlaves, and vaſſals, as
+by woful and lamentable experience they now ſee, they perfectly are, which
+ſlavery and abſo<g ref="char:EOLhyphen"/>lute bondage is like daily to increaſe, <hi>under the
+preſent tyrannicall and arbritrary new erected robbing Government;</hi> And
+therefore rouze up your ſpirits before it be too late, to a vigo<g ref="char:EOLhyphen"/>rous
+promotion, and ſetling of the principles of the foreſaid Agreement, as the
+onely ab<g ref="char:EOLhyphen"/>ſolute and perfect means to cure you of all your maladies and
+diſtempers: So with my hearty and true love preſented to all that remain
+upright amongſt you (without being perverted to Apoſtacy by the pretended
+Councell of States places or bribes) I commit you to the ſafe tuition and
+protection of the moſt high, the <hi>Lord Jehovah, and Almighty,</hi> and
+re<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t,</p>
+            <closer>
+               <salute>Gentlemen,</salute> 
+               <signed>Yours and the Nations faithful, hearty, reſolved friend,
+and ſervant in the midſt of all adverſity, afflictions, trials, and
+ſorrows (that never more in all my life incom<g ref="char:EOLhyphen"/>paſſed me round about then
+now) till death, JOHN LILBURN.</signed> 
+               <dateline>From my unjuſt and illegall
+(though contented) captivity, for my honeſty and innocen<g ref="char:EOLhyphen"/>cie, and nothing
+elſe (as to man) in cloſe impriſonment, in the Tower of <hi>London,</hi>
+without any legall and juſt allowance of maintenance, 
+<date>this preſent 17. of July, 1649.</date>
+               </dateline>
+            </closer>
+            <gap reason="missing" resp="#OXF"/>
+         </div>
+      </body>
+   </text>
+</TEI>
